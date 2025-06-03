@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 Web and Software C# Developer
-👨‍🎓 Studied Information Technology at Philippine Best Training Systems Colleges, Inc.
-💻 Currently learning about C# MVVM / MVC architecture, advanced desktop UI development.
+👨‍💻 Web and Software C# Developer<br>
+👨‍🎓 Studied Information Technology at Philippine Best Training Systems Colleges, Inc.<br>
+💻 Currently learning about C# MVVM / MVC architecture, advanced desktop UI development.<br>
 
 
 ## 🌐 Socials:
